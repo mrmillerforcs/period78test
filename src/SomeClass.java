@@ -8,4 +8,10 @@ public class SomeClass {
     public void millerMethod() {
         System.out.println("hello");
     }
+
+    public static String justinMethod() {
+        System.out.println("gemini AI");
+        return "> GPT 4";
+    }
+
 }
