@@ -8,4 +8,8 @@ public class SomeClass {
     public void millerMethod() {
         System.out.println("hello");
     }
+
+    public void myMethodIsCool() {
+        System.out.println("TGIF!!!!");
+    }
 }
