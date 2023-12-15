@@ -9,9 +9,13 @@ public class SomeClass {
         System.out.println("hello");
     }
 
-    public static String justinMethod() {
+    public static String myMethodIsCooler() {
         System.out.println("gemini AI");
         return "> GPT 4";
+    }
+
+    public void myMethodIsCool() {
+        System.out.println("TGIF!!!!");
     }
 
 }
