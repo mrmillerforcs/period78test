@@ -3,5 +3,6 @@ public class Main {
         System.out.println("hello!");
         System.out.println("object Object");
         System.out.println("period 7-8!");
+        System.out.println("whoa thats crazy");
     }
 }
