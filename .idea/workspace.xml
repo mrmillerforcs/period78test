@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b67b07d0-9bf7-4c39-93ec-b427cf91f8c8" name="Changes" comment="add someclass">
-      <change beforePath="$PROJECT_DIR$/src/SomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SomeClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="b67b07d0-9bf7-4c39-93ec-b427cf91f8c8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +24,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ZabMt21eAjhrURz6g2KESflIij" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
